@@ -1,0 +1,63 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+}
+
+.container {
+   
+    background-color: rgb(175, 177, 177);
+    display: flex;
+}
+
+.container img{
+    width: 1000px;
+    height: 1100px;
+  
+}
+.conteudo img {
+    width: 60px;
+    height: 60px;
+       
+}
+.conteudo {
+    
+    margin-top: 100px;
+    font-weight: bold;
+}
+.conteudo .base{
+    text-align: left;
+    margin-left: 20px;
+    line-height: 30px;
+
+    
+}
+.conteudo .titulo{
+    text-align: center;
+    font-size: 40px;
+    
+    
+    
+}
+.conteudo .imagem{
+    
+    text-align: center;
+}
+
+.conteudo .rodape{
+    display: flex;
+    gap: 10px;
+    margin-left: 20px;
+    color: red;
+    margin-top: 60px;
+    
+}
+
+
+
+
+
+
+
+
+
